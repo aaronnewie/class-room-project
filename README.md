@@ -1,2 +1,2 @@
 # class-room-project
-Code Tenderloin Homepage
+Mock SJ Sharkie Landing Page
