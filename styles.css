@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    background-color: #006D75;
+}
+
+.achievements {
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+th {
+    color: #EA7200;
+}
+
+td {
+    color: white;
+}
+
+.info {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    color:white;
+    background-color: #006D75;
+}
